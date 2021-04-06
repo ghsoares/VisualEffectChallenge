@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel Henrique\\Documents\\godot\\VisualEffectChallenge\\VisualEffectChallenge.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel Henrique\\Documents\\godot\\VisualEffectChallenge\\VisualEffectChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel Henrique\\Documents\\godot\\VisualEffectChallenge\\VisualEffectChallenge.csproj",
+        "projectName": "VisualEffectChallenge",
+        "projectPath": "C:\\Users\\Gabriel Henrique\\Documents\\godot\\VisualEffectChallenge\\VisualEffectChallenge.csproj",
+        "packagesPath": "C:\\Users\\Gabriel Henrique\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel Henrique\\Documents\\godot\\VisualEffectChallenge\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

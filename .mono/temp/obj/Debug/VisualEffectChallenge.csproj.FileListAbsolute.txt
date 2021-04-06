@@ -1,0 +1,8 @@
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\bin\Debug\VisualEffectChallenge.dll
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\bin\Debug\VisualEffectChallenge.pdb
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\obj\Debug\VisualEffectChallenge.csprojAssemblyReference.cache
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\obj\Debug\VisualEffectChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\obj\Debug\VisualEffectChallenge.AssemblyInfoInputs.cache
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\obj\Debug\VisualEffectChallenge.AssemblyInfo.cs
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\obj\Debug\VisualEffectChallenge.dll
+C:\Users\Gabriel Henrique\Documents\godot\VisualEffectChallenge\.mono\temp\obj\Debug\VisualEffectChallenge.pdb
